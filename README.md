@@ -1,2 +1,2 @@
-# bmwest
-Portfolio of recent and current web project.
+# web-portfolio
+Portfolio of recent and current web projects.
